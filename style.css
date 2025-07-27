@@ -18,6 +18,16 @@ body::before {
   z-index: -1;
 }
 
+  @media (max-width: 768px) {
+    background-attachment: scroll; /* Prevent fixed background on mobile */
+    body{
+      margin-left: 3px;
+    }
+    header {
+      margin-left: 0;
+    }
+  }
+
 header {
   background: #0B3C5D;
   color: #8892B0;
