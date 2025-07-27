@@ -15,6 +15,19 @@ header {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
 }
 
+.D-Tech-logo {
+  width: 150px;
+  height: auto;
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.description {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin: 20px 0;
+}
+
 .logo {
   font-size: 1.5rem;
   font-weight: 700;
