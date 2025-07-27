@@ -20,6 +20,11 @@ header {
   font-weight: 700;
 }
 
+.about {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
 nav {
   display: flex;
   gap: 20px;
