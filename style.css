@@ -7,6 +7,10 @@ body {
   line-height: 1.6;
 }
 
+.jug {
+    background: url('docs/assets/images/') no-repeat center center fixed;
+}
+
 body::before {
   content: '';
   position: fixed;
