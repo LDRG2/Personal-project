@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'DM Sans', sans-serif;
-  background: url('docs/assets/images/Izuku Midoriya.jfif') no-repeat center center fixed;
+  background: url('docs/assets/images/𝑴𝒊𝒅𝒐𝒓𝒊𝒚𝒂.jfif') no-repeat center center fixed;
   background-size: cover;
   color: #C5C6C7;
   line-height: 1.6;
@@ -118,4 +118,5 @@ nav a {
     display: block;
   }
 }
+
 
