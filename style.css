@@ -27,6 +27,17 @@ body::before {
   z-index: -1;
 }
 
+.main-content {
+  flex: 1; /* takes remaining space below header */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  text-align: center;
+}
+
+
 header {
   background: #0B3C5D;
   color: #8892B0;
@@ -127,6 +138,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
