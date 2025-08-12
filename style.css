@@ -3,7 +3,7 @@ body {
   font-family: 'DM Sans', sans-serif;
     width: 100%;
     height: 100vh; /* full screen height */
-    background-image: url('your-image.jpg');
+    background-image: url('docs/assets/images/1302573.jpg');
     background-size: cover;          /* scales image to fill */
     background-position: center;     /* keeps it centered */
     background-repeat: no-repeat;    /* no tiling */
@@ -127,6 +127,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
