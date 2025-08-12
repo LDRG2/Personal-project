@@ -7,13 +7,6 @@ body {
     background-size: cover;          /* scales image to fill */
     background-position: center;     /* keeps it centered */
     background-repeat: no-repeat;    /* no tiling */
-    display: flex;                   /* centers text */
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: white;                    /* contrast for text */
-    text-align: center;
-    padding: 20px;                   /* space for mobile edges */
 }
 
 body::before {
@@ -119,6 +112,16 @@ nav {
   gap: 20px;
 }
 
+section {
+    display: flex;                   /* centers text */
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;                    /* contrast for text */
+    text-align: center;
+    padding: 20px;                   /* space for mobile edges */
+}
+
 nav a {
   color: white;
   text-decoration: none;
@@ -157,6 +160,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
