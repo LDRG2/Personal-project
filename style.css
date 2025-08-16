@@ -43,6 +43,11 @@ footer a:hover {
   left: 0;
   bottom: 0;
   width: 100%;
+  background: #0B3C5D;
+  color: #E6F1FF;
+  text-align: center;
+  padding: 15px 10px;
+  font-size: 0.9rem;
 }
 
 header {
@@ -177,6 +182,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
