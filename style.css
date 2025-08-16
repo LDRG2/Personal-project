@@ -78,6 +78,15 @@ color: #8892B0;
   text-decoration: underline;
 }
 
+.men {
+        background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+        -webkit-background-clip: text; /* For WebKit browsers (Chrome, Safari) */
+        background-clip: text;
+        -webkit-text-fill-color: transparent; /* For WebKit browsers */
+        color: transparent; /* For other browsers */
+        align-text: center;
+}
+
 .D-Tech-logo {
   width: 150px;
   height: auto;
@@ -153,6 +162,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
