@@ -154,8 +154,8 @@ nav a {
 }
 
 .coffe-img {
-  height: 100px;
-  width: 100px;
+  height: 250px;
+  width: 250px;
   display: block;
   margin: auto;
 }
@@ -172,6 +172,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
