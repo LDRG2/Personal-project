@@ -84,7 +84,10 @@ color: #8892B0;
         background-clip: text;
         -webkit-text-fill-color: transparent; /* For WebKit browsers */
         color: transparent; /* For other browsers */
-        align-text: center;
+        text-align: center;
+        font-weight: bold;
+        font-size: 3rem; 
+        
 }
 
 .D-Tech-logo {
@@ -162,6 +165,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
