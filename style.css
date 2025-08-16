@@ -155,7 +155,8 @@ nav a {
 
 .coffe-img {
   height: 100px;
-  width: auto;
+  width: 100px;
+  align-items: center;
 }
 
 /* Responsive */
@@ -170,6 +171,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
