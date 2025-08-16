@@ -78,7 +78,7 @@ color: #8892B0;
   text-decoration: underline;
 }
 
-.men {
+.coffe {
         background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
         -webkit-background-clip: text; /* For WebKit browsers (Chrome, Safari) */
         background-clip: text;
@@ -153,6 +153,11 @@ nav a {
   display: flex;
 }
 
+.coffe-image {
+  height: 100px;
+  width: auto;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   body {
@@ -165,6 +170,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
