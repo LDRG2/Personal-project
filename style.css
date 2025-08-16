@@ -38,7 +38,15 @@ footer a:hover {
   text-decoration: underline;
 }
 
-
+.sticky {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
 
 header {
   background: #0B3C5D;
@@ -172,6 +180,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
