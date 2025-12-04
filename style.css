@@ -88,18 +88,6 @@ color: #8892B0;
   text-decoration: underline;
 }
 
-.coffe {
-        background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
-        -webkit-background-clip: text; /* For WebKit browsers (Chrome, Safari) */
-        background-clip: text;
-        -webkit-text-fill-color: transparent; /* For WebKit browsers */
-        color: transparent; /* For other browsers */
-        text-align: center;
-        font-weight: bold;
-        font-size: 1.5rem; 
-        
-}
-
 .D-Tech-logo {
   width: 150px;
   height: auto;
@@ -163,13 +151,6 @@ nav a {
   display: flex;
 }
 
-.coffe-img {
-  height: 250px;
-  width: 250px;
-  display: block;
-  margin: auto;
-}
-
 /* Responsive */
 @media (max-width: 768px) {
   body {
@@ -182,6 +163,7 @@ nav a {
     display: block;
   }
 }
+
 
 
 
